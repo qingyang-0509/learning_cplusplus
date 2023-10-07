@@ -1,0 +1,3 @@
+C:/Users/30205/Desktop/C++/learning_C++/Construtors/cmake-build-debug/CMakeFiles/Construtors.dir
+C:/Users/30205/Desktop/C++/learning_C++/Construtors/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/30205/Desktop/C++/learning_C++/Construtors/cmake-build-debug/CMakeFiles/rebuild_cache.dir

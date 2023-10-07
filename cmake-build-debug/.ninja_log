@@ -1,0 +1,14 @@
+# ninja log v5
+3	46	6937470642088574	Learning/CMakeFiles/learning.dir/learning.cpp.obj	c3de2c968b7c77ac
+2	191	6937482970130919	Learning/CMakeFiles/learning.dir/vptr.cpp.obj	fd45e67cc869b31b
+1	193	6985128010955831	virtual_function/CMakeFiles/virtual_deconstructor.dir/virtual_deconstructor.cpp.obj	f7680cd0fcee55c4
+191	251	6937482970700756	Learning/learning.exe	e5c7a47a737cd36d
+1	298	6958402133745526	Reference/CMakeFiles/Reference.dir/reference.cpp.obj	78c1a9466676e97d
+298	469	6958402135426202	Reference/Reference.exe	fc5cac4aa5eb9fe9
+569	684	6964150270378020	Utilities/tuple/tuple.exe	4135f94d469114b0
+0	569	6964150269248035	Utilities/tuple/CMakeFiles/tuple.dir/tuple.cpp.obj	fbfe2b78ec290565
+193	254	6985128011531212	virtual_function/virtual_deconstructor.exe	9947550c8f9d7561
+2	335	6987692391705939	virtual_function/virtual_deconstructor/CMakeFiles/virtual_deconstructor.dir/virtual_deconstructor.cpp.obj	11cd171e65c19727
+336	507	6987692393383811	virtual_function/virtual_deconstructor/virtual_deconstructor.exe	d2d10b97e8f49892
+1	199	6987693898215445	virtual_function/virtual_function/CMakeFiles/virtual_function.dir/virtual_function.cpp.obj	d2db4edadbb429aa
+199	259	6987693898785402	virtual_function/virtual_function/virtual_function.exe	bede5a42808e5529

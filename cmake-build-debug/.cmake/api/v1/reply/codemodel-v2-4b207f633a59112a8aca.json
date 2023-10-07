@@ -1,0 +1,479 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						12
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Constructors",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-Constructors-Debug-282ed3e3e9922bc418e4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Constructors"
+				},
+				{
+					"build" : "Constructors/move_constructors",
+					"jsonFile" : "directory-Constructors.move_constructors-Debug-0a053b578b31741cdcf3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "Constructors/move_constructors",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Reference",
+					"jsonFile" : "directory-Reference-Debug-7576c6068dc78946d319.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Reference",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Learning",
+					"jsonFile" : "directory-Learning-Debug-ca77712e6aab1e740e44.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Learning",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Matrix",
+					"jsonFile" : "directory-Matrix-Debug-b36d5918c082b258ba0f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Matrix",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Utilities",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-Utilities-Debug-5e3bd9e4a1e467ac0e18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Utilities"
+				},
+				{
+					"build" : "Utilities/tuple",
+					"jsonFile" : "directory-Utilities.tuple-Debug-db42b261d128288ee21a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 7,
+					"source" : "Utilities/tuple",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "virtual_function",
+					"childIndexes" : 
+					[
+						9,
+						10,
+						11
+					],
+					"jsonFile" : "directory-virtual_function-Debug-c2f4396c2967373620ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Virtual_Function"
+				},
+				{
+					"build" : "virtual_function/virtual_deconstructor",
+					"jsonFile" : "directory-virtual_function.virtual_deconstructor-Debug-2863bbd7f9284a8b7b60.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "Virtual_Function/virtual_deconstructor",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "virtual_function/virtual_function",
+					"jsonFile" : "directory-virtual_function.virtual_function-Debug-aef3e941d0ecf92fde1d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 9,
+					"source" : "Virtual_Function/virtual_function",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "virtual_function/vptr",
+					"jsonFile" : "directory-virtual_function.vptr-Debug-ecd72ac99f8aa07f4c79.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 8,
+					"projectIndex" : 8,
+					"source" : "Virtual_Function/vptr",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Return_Value",
+					"childIndexes" : 
+					[
+						13,
+						14,
+						15
+					],
+					"jsonFile" : "directory-Return_Value-Debug-a319ac478cb0ccf9fc2a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Return_Value"
+				},
+				{
+					"build" : "Return_Value/Return_Value",
+					"jsonFile" : "directory-Return_Value.Return_Value-Debug-74ab113a9258ec643b99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 10,
+					"source" : "Return_Value/Return_Value",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Return_Value/Return_Reference",
+					"jsonFile" : "directory-Return_Value.Return_Reference-Debug-74ea7ba41e84a9971632.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 10,
+					"source" : "Return_Value/Return_Reference"
+				},
+				{
+					"build" : "Return_Value/Return_Pointer",
+					"jsonFile" : "directory-Return_Value.Return_Pointer-Debug-a75f4083af1eb2209dc5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 12,
+					"projectIndex" : 10,
+					"source" : "Return_Value/Return_Pointer"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						3,
+						4,
+						5,
+						6,
+						8,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "learning"
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Construtors",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "move_constructor",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Reference",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Learning",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Matrix",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						7
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "Utilities",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "tuple",
+					"parentIndex" : 6,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						9
+					],
+					"directoryIndexes" : 
+					[
+						8,
+						9,
+						11
+					],
+					"name" : "Learning",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "virtual_function",
+					"parentIndex" : 8,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15
+					],
+					"name" : "Return_Value",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "Matrix::@8f54aebd265510262963",
+					"jsonFile" : "target-Matrix-Debug-28b624bf0b1d4ce048a8.json",
+					"name" : "Matrix",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Reference::@181bf41e8401bb0e60e5",
+					"jsonFile" : "target-Reference-Debug-b5726b874181d96f90fd.json",
+					"name" : "Reference",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "Return_Value::@5c4e73ae6f8621ea7751",
+					"jsonFile" : "target-Return_Value-Debug-4ea72b180e61da705b2f.json",
+					"name" : "Return_Value",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "learning::@3c5201ad4ab03e4755a7",
+					"jsonFile" : "target-learning-Debug-599b8f5a9453500b75d3.json",
+					"name" : "learning",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "move_constructor::@48bc3b44a9bca9ef5427",
+					"jsonFile" : "target-move_constructor-Debug-543969d1c51bb2840350.json",
+					"name" : "move_constructor",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "tuple::@a473819623b43318ce03",
+					"jsonFile" : "target-tuple-Debug-dcdafc620b5076a59aa7.json",
+					"name" : "tuple",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "virtual_deconstructor::@0963b197c7e4e6728531",
+					"jsonFile" : "target-virtual_deconstructor-Debug-553d8fe3625c8cd32f8b.json",
+					"name" : "virtual_deconstructor",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "virtual_function::@70d23831676f6fbedbce",
+					"jsonFile" : "target-virtual_function-Debug-1cc7dd2d27fa1c8dc750.json",
+					"name" : "virtual_function",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "vptr::@15b0ccd41325f7c8d91f",
+					"jsonFile" : "target-vptr-Debug-f8281e01c55adf4d3f6a.json",
+					"name" : "vptr",
+					"projectIndex" : 8
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/30205/Desktop/Clion/cplusplus_learning/cmake-build-debug",
+		"source" : "C:/Users/30205/Desktop/Clion/cplusplus_learning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
